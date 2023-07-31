@@ -2,7 +2,7 @@
   "name": "portfolio_website",
   "version": "0.1.0",
   "private": true,
-  "homePage": "https://aishwarya-mustoori.github.io/portfolio_website",
+  "homepage": "https://aishwarya-mustoori.github.io/portfolio_website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
